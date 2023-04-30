@@ -1,0 +1,42 @@
+{
+    "text": {
+      "text1": {
+        "permissions": [
+          "default"
+        ],
+        "messages": {
+          "embed": [
+            "2 Embed message to be sent in text1"
+          ],
+          "msg": [
+            "2 Message to be sent in text1"
+          ]
+        }
+      },
+      "text2": {
+        "permissions": [
+          "default"
+        ],
+        "messages": {
+          "embed": [
+            "2 Embed message to be sent in text2"
+          ],
+          "msg": [
+            "2 Message to be sent in text2"
+          ]
+        }
+      }
+    },
+    "voice": {
+      "voice1": {
+        "permissions": [
+          "default"
+        ]
+      },
+      "voice2": {
+        "permissions": [
+          "default"
+        ]
+      }
+    }
+  }
